@@ -52,6 +52,6 @@ body {
     background-color: rgb(255, 209, 209);;
     align-items: center;
     justify-content: center;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 150px;
+    font-family: monospace;
+    font-size: 70px;
 }
